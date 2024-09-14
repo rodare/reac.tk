@@ -1,0 +1,17 @@
+*{
+  margin:10px; padding:0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  text-align: justify;
+}
+
+body{
+  min-height: 100vh;
+  /* min-width: 140vh;
+  background: url(../images/fachada.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;*/
+  background-color: rgba(4,20,84,0.1);
+}
+
